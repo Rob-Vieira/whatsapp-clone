@@ -1,2 +1,2 @@
 # whatsapp-clone
-Um clone do aplicativo móvel do WhatsApp, desenvolvido inteiramente com HTML5 e CSS3.  Ainda não Responsivo.
+Um clone do aplicativo móvel do WhatsApp, desenvolvido inteiramente com HTML5 e CSS3.  Ainda não Responsivo, feito para telas mobiles.
